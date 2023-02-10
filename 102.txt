@@ -1,0 +1,6 @@
+
+Amount Deposited : 5000 On Time: 2023-01-04 12:58:35.358941
+Amount Deposited : 5000 On Time: 2023-01-04 12:58:39.480711
+Amount Withdrawal : 6000 On Time: 2023-01-04 12:58:51.089934
+Balance Checked  On Time: 2023-01-04 12:58:56.167839
+Transaction Completed On Time: 2023-01-04 12:58:57.712941

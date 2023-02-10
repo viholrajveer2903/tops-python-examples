@@ -1,0 +1,25 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<!-- <link rel="stylesheet" href="{% static 'css/style.css' %}"> -->
+</head>
+<body>
+<center>
+<h1>|| <a href="/">Home</a> || <a href="{% url 'signup' %}">Sign Up</a> || <a href="{% url 'login' %}">Login</a> ||</h1>
+	<h1 style="font-size: 20px;">Login</h1>
+<br>
+<p class="a1">This is paragraph tag</p>
+This is normal text
+<br>
+<a href="https://www.google.com">Google</a>
+<br>
+<img src="{% static 'images/2.jpg' %}" width="100px" height="100px">
+<br>
+<p class="a2">This is paragraph tag</p>
+</center>
+</body>
+</html>
